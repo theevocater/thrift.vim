@@ -11,6 +11,6 @@ I use this with [pathogen.vim](https://github.com/tpope/vim-pathogen).
 Once you have that installed, you can simply:
 
     cd ~/.vim/bundle
-    git clone git://github.com/tpope/vim-rails.git
+    git clone git://github.com/theevocater/thrift.vim.git
 
 Next time you open a thrift file it should be nicely syntax-d.
