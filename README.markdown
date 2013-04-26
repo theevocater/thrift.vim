@@ -1,6 +1,7 @@
 This is just a mirror of
-[thrift.vim](https://raw.github.com/twitter/thrift/master/contrib/thrift.vim)
-because I like submodules so much. Hopefully others find it useful.
+[thrift.vim](https://raw.github.com/twitter/thrift/master/contrib/thrift.vim). Hopefully others find it useful.
+
+I added an ftdetect and put things in folders to make it "just work".
 
 This is from the 0.9.x release.
 
