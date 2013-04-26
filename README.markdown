@@ -14,3 +14,12 @@ Once you have that installed, you can simply:
     git clone git://github.com/theevocater/thrift.vim.git
 
 Next time you open a thrift file it should be nicely syntax-d.
+
+
+### With submodules ###
+
+If you keep your vim files in a git repo, install pathogen and:
+
+    cd ~/.vim
+    mkdir bundle
+    git submodule add git://github.com/theevocater/thrift.vim.git bundle/thrift/
